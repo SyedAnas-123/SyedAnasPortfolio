@@ -709,7 +709,7 @@ export default function Portfolio() {
                   </div>
                   <div className="p-4 bg-white/5 rounded-lg border border-white/10">
                     <div className="text-3xl font-bold text-cyan-400">2+</div>
-                    <div className="text-xs uppercase tracking-wider mt-1">Major Studies</div>
+                    <div className="text-xs uppercase tracking-wider mt-1">Research Papers</div>
                   </div>
                 </div>
               </div>
